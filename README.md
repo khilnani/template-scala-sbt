@@ -7,10 +7,9 @@
 - Install Scala - http://www.scala-lang.org/download/
 - Install SBT - http://www.scala-sbt.org/
 
-### Commands
+### Scripts
 
-> In addition to the usual `sbt` commands:
-
-- Build - `./build.sh` - Compiles and copies Jars to `./dist`
-
+- `./build.sh` - Compiles and copies Jars to `./dist`
+- `./run.sh` - Run using Scala
+- `./runj.sh` - Run using Java 
 
